@@ -365,7 +365,7 @@ io.on('connection', (socket) => {
     });
 });
 
-server.listen(PORT, async () => {
+server.listen(PORT, '0.0.0.0', async () => {
     console.log(chalk.hex('#6c5ce7').bold(`\n╔══════════════════════════════════════╗`));
     console.log(chalk.hex('#6c5ce7').bold(`║   Shadow Army Bug Bot — Multi-Session     ║`));
     console.log(chalk.hex('#6c5ce7').bold(`║   http://localhost:${PORT}              ║`));
