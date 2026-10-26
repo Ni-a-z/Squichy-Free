@@ -281,7 +281,7 @@ case "repo": {
     const txt = `
 > ╔════─── • ───══╗
 > ║╭────•
-> ║┃───⎝⎝✧ *𝙵𝚁𝙴𝙴 𝙱𝚄𝙶* ✧⎠⎠
+> ║┃───⎝⎝✧ *NIAZ SHADOW ARMY BUG BOT* ✧⎠⎠
 > ║┃
 > ║┃➳ *\`𝙱𝙾𝚃 𝙻𝙸𝙽𝙺\`*
 > ║┃╰─ *https://free-bot-beta.vercel.app*
@@ -316,7 +316,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╭────•
 > ║┃──⎝⎝✧ *𝙸𝙽𝙵𝙾 𝙱𝙾𝚃* ✧⎠⎠
 > ║┃
-> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* 𝙿𝚁𝙸𝙼𝙸𝚂 - ¿? +
+> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* NIAZ TECH - ¿? +
 > ║┃➳ *𝚅𝙴𝚁𝚂𝙸𝙾𝙽:* 1.0.0
 > ║┃➳ *𝙿𝚁𝙴𝙵𝙸𝚇:* ${prefix}
 > ║┃➳ *𝚄𝚂𝙴𝚁:* ${m.pushName}
@@ -331,7 +331,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 
 > ╔════── • ──═══╗
 > ║╭────•
-> ║┃──⎝⎝✧ *𝙵𝚁𝙴𝙴 𝙱𝚄𝙶* ✧⎠⎠
+> ║┃──⎝⎝✧ *NIAZ SHADOW ARMY BUG BOT* ✧⎠⎠
 > ║┃
 > ║┃ ✧ *\`𝙼𝙰𝙸𝙽 𝙲𝙼𝙳𝚂\`*
 > ║┃➳ *${prefix}𝙿𝙰𝙸𝚁*
@@ -343,7 +343,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╰────•
 > ╚════── • ──═══╝
 `
-        const imageUrl = "https://files.catbox.moe/rg113k.jpg";
+        const imageUrl = "https://files.catbox.moe/rdk0hk.png";
 
     await prim.sendMessage(
         m.chat,
@@ -356,7 +356,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterName: 'SHADOW ARMY BUG BOT',
                     serverMessageId: 143
                 }
             }
@@ -416,9 +416,9 @@ if (!usedWithPrefix(m, command, prefix)) return;
                           
  
 case "owner": {
-   const ownerName = "𝙸𝚃'𝚂 𝙼𝙴";  
-   const ownerNumber = "50956880230"; 
-   const displayTag = "𝚃𝙷𝙴 𝙾𝙽𝙻𝚈 𝙾𝚆𝙽𝙴𝚁 𝙾𝙵 𝙵𝚁𝙴𝙴 𝙱𝚄𝙶";
+   const ownerName = "NIAZ";  
+   const ownerNumber = "08055412730"; 
+   const displayTag = "𝚃𝙷𝙴 𝙾𝙽𝙻𝚈 𝙾𝚆𝙽𝙴𝚁 𝙾𝙵 SHADOW ARMY BUG BOT";
 
    let vcard = `BEGIN:VCARD
 VERSION:3.0
@@ -479,7 +479,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╭────•
 > ║┃──⎝⎝✧ *𝙸𝙽𝙵𝙾 𝙱𝙾𝚃* ✧⎠⎠
 > ║┃
-> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* 𝙿𝚁𝙸𝙼𝙸𝚂 - ¿? +
+> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* NIAZ TECH - ¿? +
 > ║┃➳ *𝚅𝙴𝚁𝚂𝙸𝙾𝙽:* 1.0.0
 > ║┃➳ *𝙿𝚁𝙴𝙵𝙸𝚇:* ${prefix}
 > ║┃➳ *𝚄𝚂𝙴𝚁:* ${m.pushName}
@@ -503,7 +503,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╰────•
 > ╚════── • ──══╝
 `
-        const imageUrl = "https://files.catbox.moe/rg113k.jpg";
+        const imageUrl = "https://files.catbox.moe/rdk0hk.png";
 
     await prim.sendMessage(
         m.chat,
@@ -516,7 +516,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterName: 'SHADOW ARMY BUG BOT',
                     serverMessageId: 143
                 }
             }
@@ -545,7 +545,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╭────•
 > ║┃──⎝⎝✧ *𝙸𝙽𝙵𝙾 𝙱𝙾𝚃* ✧⎠⎠
 > ║┃
-> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* 𝙿𝚁𝙸𝙼𝙸𝚂 - ¿? +
+> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* NIAZ - ¿? +
 > ║┃➳ *𝚅𝙴𝚁𝚂𝙸𝙾𝙽:* 1.0.0
 > ║┃➳ *𝙿𝚁𝙴𝙵𝙸𝚇:* ${prefix}
 > ║┃➳ *𝚄𝚂𝙴𝚁:* ${m.pushName}
@@ -576,7 +576,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╰────•
 > ╚════── • ──══╝
 `
-        const imageUrl = "https://files.catbox.moe/rg113k.jpg";
+        const imageUrl = "https://files.catbox.moe/rdk0hk.png";
 
     await prim.sendMessage(
         m.chat,
@@ -589,7 +589,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterName: 'SHADOW ARMY BUG BOT',
                     serverMessageId: 143
                 }
             }
@@ -618,7 +618,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╭────•
 > ║┃──⎝⎝✧ *𝙸𝙽𝙵𝙾 𝙱𝙾𝚃* ✧⎠⎠
 > ║┃
-> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* 𝙿𝚁𝙸𝙼𝙸𝚂 - ¿? +
+> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* NIAZ - ¿? +
 > ║┃➳ *𝚅𝙴𝚁𝚂𝙸𝙾𝙽:* 1.0.0
 > ║┃➳ *𝙿𝚁𝙴𝙵𝙸𝚇:* ${prefix}
 > ║┃➳ *𝚄𝚂𝙴𝚁:* ${m.pushName}
@@ -643,7 +643,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╰────•
 > ╚════── • ──══╝
 `
-        const imageUrl = "https://files.catbox.moe/rg113k.jpg";
+        const imageUrl = "https://files.catbox.moe/rdk0hk.png";
 
     await prim.sendMessage(
         m.chat,
@@ -656,7 +656,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterName: 'SHADOW ARMY BUG BOT',
                     serverMessageId: 143
                 }
             }
@@ -685,7 +685,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╭────•
 > ║┃──⎝⎝✧ *𝙸𝙽𝙵𝙾 𝙱𝙾𝚃* ✧⎠⎠
 > ║┃
-> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* 𝙿𝚁𝙸𝙼𝙸𝚂 - ¿? +
+> ║┃➳ *𝙾𝚆𝙽𝙴𝚁:* NIAZ - ¿? +
 > ║┃➳ *𝚅𝙴𝚁𝚂𝙸𝙾𝙽:* 1.0.0
 > ║┃➳ *𝙿𝚁𝙴𝙵𝙸𝚇:* ${prefix}
 > ║┃➳ *𝚄𝚂𝙴𝚁:* ${m.pushName}
@@ -710,7 +710,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
 > ║╰────•
 > ╚════── • ──══╝
 `
-        const imageUrl = "https://files.catbox.moe/rg113k.jpg";
+        const imageUrl = "https://files.catbox.moe/rdk0hk.png";
 
     await prim.sendMessage(
         m.chat,
@@ -723,7 +723,7 @@ const readmore = String.fromCharCode(8206).repeat(4001)
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363425413527865@newsletter',
-                    newsletterName: '𝙵𝚁𝙴𝙴 𝙱𝚄𝙶',
+                    newsletterName: 'SHADOW ARMY BUG BOT',
                     serverMessageId: 143
                 }
             }
@@ -773,7 +773,8 @@ case 'frz-wa': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗳𝗿𝗲𝗲𝘇𝗲\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
     for (let i = 0; i < 500; i++) {
     await sleep(5000);
@@ -819,7 +820,8 @@ case 'frz-doc': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗱𝗼𝗰𝗧𝗵𝘂𝗺𝗯\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
 
     for (let i = 0; i < 500; i++) {
@@ -866,7 +868,8 @@ case 'frz-sql': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗶𝗻𝘃𝗶𝘀𝗦𝗾𝗟²\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
 
     for (let i = 0; i < 500; i++) {
@@ -915,7 +918,8 @@ case 'delay-ofm': case 'delay-csl': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗼𝗳𝗺𝗰𝗿𝘀𝗹\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
 
     for (let i = 0; i < 500; i++) {
@@ -962,7 +966,8 @@ case 'delay-sql': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗼𝗳𝗺𝗖𝗿𝗮𝘀𝗵𝗦𝗾𝗹\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
 
     for (let i = 0; i < 500; i++) {
@@ -1009,7 +1014,8 @@ case 'delay-vcs': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝘃𝗰𝘀\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
 
     for (let i = 0; i < 500; i++) {
@@ -1058,7 +1064,8 @@ case 'ios-zk': case 'rpmn-ios': case 'crash-ios': case 'invis-ios': {
         `「 𝐀𝐓𝐓𝐀𝐂𝐊𝐈𝐍𝐆 𝐒𝐔𝐂𝐂𝐄𝐒𝐒 」\n\n` +
         `𖥂 𝐓𝐀𝐑𝐆𝐄𝐓 : ${target}\n` +
         `𖥂 𝐕𝐈𝐑𝐔𝐒 : 𝗳𝗿𝗲𝘇𝗰𝗿𝗮𝘀𝗵𝗫𝗰𝘅\n\n` +
-        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.*`
+        `*» 𝙰𝙵𝚃𝙴𝚁 𝚈𝙾𝚄 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚅𝙸𝚃𝚄𝚂, 𝙿𝙻𝙴𝙰𝚂𝙴 𝚆𝙰𝙸𝚃 10 𝙼𝙸𝙽𝚄𝚃𝙴𝚂 𝙱𝙴𝙵𝙾𝚁𝙴 𝚂𝙴𝙽𝙳𝙸𝙽𝙶 𝙰𝙽𝙾𝚃𝙷𝙴𝚁.
+        POWERED BY NIAZ*`
     );
 
     for (let i = 0; i < 500; i++) {
